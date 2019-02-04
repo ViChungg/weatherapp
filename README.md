@@ -5,9 +5,7 @@ the weather for other cities. The project was built using Python and the OpenWea
 
 ## Getting Started
 
-Download the repository and run main.exe. 
-
-Alternatively, download the repository and run the main.py file. In order to do this, the user must have the prerequisites below 
+Download the repository and run the main.py file. In order to do this, the user must have the prerequisites below 
 installed.
 
 ### Prerequisites
@@ -26,7 +24,6 @@ following commands:
 ## Running the program
 
 In the command line, run the program using the full path name.
-The program can also be opened by running the main.exe file.
 
 ## Built With
 
